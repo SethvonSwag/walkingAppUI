@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "F1434FA056F2E4AEB73F4904D4AF2C635E932645",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "F1434FA056F2E4AEB73F4904D4AF2C635E932645" : 0,
+    "556D7FAB1696546841F537D60A894A4A3808D326" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2117AE11-1050-4949-8634-C9ECDCA90F53",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "F1434FA056F2E4AEB73F4904D4AF2C635E932645" : "walkingAppUI\/",
+    "556D7FAB1696546841F537D60A894A4A3808D326" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "walkingAppUI",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "walkingAppUI.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/msmith95\/it4500-walking-application.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "556D7FAB1696546841F537D60A894A4A3808D326"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/SethvonSwag\/walkingAppUI.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F1434FA056F2E4AEB73F4904D4AF2C635E932645"
+    }
+  ]
+}
